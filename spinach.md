@@ -4,6 +4,7 @@
 - website-strapi
 - jinora
 - quicknexus
+- echofy
 
 [under `tubelight`]
 
