@@ -1,7 +1,10 @@
-- Ubuntu:
-  - website-react
-  - website-strapi
-  - jinora
-  - quicknexus
-- Tubelight:
-  - [empty]
+[under `ubuntu`]
+
+- website-react
+- website-strapi
+- jinora
+- quicknexus
+
+[under `tubelight]
+
+- example project
