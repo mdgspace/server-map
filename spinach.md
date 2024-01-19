@@ -4,8 +4,7 @@
 - website-strapi
 - jinora
 - quicknexus
-- echofy
 
 [under `tubelight`]
 
-- example project
+- echofy
