@@ -5,6 +5,6 @@
 - jinora
 - quicknexus
 
-[under `tubelight]
+[under `tubelight`]
 
 - example project
