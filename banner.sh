@@ -1,6 +1,6 @@
 server_name=""
 url="https://raw.githubusercontent.com/mdgspace/server-map/main/$server_name.md"
-response=$(curl -s "$url")
+response=$(curl -s $url)
 
 echo "--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---"
 echo ""
