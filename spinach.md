@@ -7,4 +7,4 @@
 
 [under `tubelight`]
 
-- example project
+- echofy
