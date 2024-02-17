@@ -8,3 +8,4 @@
 [under `tubelight`]
 
 - echofy
+- tracer
