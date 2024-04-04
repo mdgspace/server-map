@@ -1,6 +1,6 @@
 [under `centos`]
 
-- <None>
+- (None)
 
 [under `codephile`]
 
